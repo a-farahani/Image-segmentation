@@ -1,4 +1,4 @@
-# team-linden-p2 - Project 2 CSCI-8360 : Cilia Segmentation
+# Cilia Segmentation
 ## Team-linden
 
 ## Member (Ordered by last name alphabetically)
